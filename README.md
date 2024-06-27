@@ -1,5 +1,5 @@
 
-This Power BI dashboard provides various insights into Amazon sales data. The dashboard is divided into two main views: Sales Overview and Product Details. Each view contains multiple visualizations that present data on sales status, categories, geographic distribution, order fulfillment, and other key metrics.
+This Power BI dashboard provides various insights into Amazon sales data. The dashboard is divided into two main views: Sales Overview and Product Details. Each view contains multiple visualizations that present data on sales status, categories, geographic distribution, order fulfilment, and other key metrics.
 
 Dashboard Views
 
